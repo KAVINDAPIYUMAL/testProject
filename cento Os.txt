@@ -1,0 +1,13 @@
+SSH
+IP – 124.43.68.168
+Port – 8000
+User – root
+PW - digitalplatforms@456
+ 
+Port Mapping
+Actual
+Mapped
+22 8000
+80 8001
+3306 8002
+82 8003
